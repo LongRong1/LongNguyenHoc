@@ -21,7 +21,7 @@ function App() {
     var cv = Object.values(cc)
     nb.innerText = cv[0]+','+cv[1]+','+cv[2]
   }
-
+// vua co bac
   function aba(){
     let cc = abx[Math.floor(Math.random()*abx.length)]
     var cv = Object.values(cc)
